@@ -1,1 +1,3 @@
-# practica-1
+# Practicas de laboratorio
+## Logica de programacion
+
