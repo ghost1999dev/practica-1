@@ -42,7 +42,83 @@ let z = 1
     console.log("Y ES MENOR QUE CINCO");
 }*/
 
-let edad = 15
+//let edad = 15
+
 
 //ternario
-edad > 18 ? console.log("Es mayor de edad"):console.log("Es menor de edad");
+//edad > 18 ? console.log("Es mayor de edad"):console.log("Es menor de edad");
+
+
+const objectBooks=[
+    {
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "year": "1965"
+    },
+    {
+      "name": "1984",
+      "author": "George Orwell",
+      "year": "1949"
+    },
+    {
+      "name": "Foundation",
+      "author": "Isaac Asimov",
+      "year": "1951"
+    },
+    {
+      "name": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "year": "1979"
+    },
+    {
+      "name": "Neuromancer",
+      "author": "William Gibson",
+      "year": "1984"
+    },
+    {
+      "name": "Ender's Game",
+      "author": "Orson Scott Card",
+      "year": "1985"
+    },
+    {
+      "name": "Brave New World",
+      "author": "Aldous Huxley",
+      "year": "1932"
+    },
+    {
+      "name": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "year": "1953"
+    },
+    {
+      "name": "The War of the Worlds",
+      "author": "H.G. Wells",
+      "year": "1898"
+    },
+    {
+      "name": "Snow Crash",
+      "author": "Neal Stephenson",
+      "year": "1992"
+    }
+  ]
+
+/*for(const element of objectBooks){
+    console.log(element.name);
+}*/
+
+let day = 'Monday';
+let element='';
+switch (day) {
+    case 'Sunday':
+        element = 'Dia domingo'
+        
+        break;
+    case 'Monday':
+        element = 'Dia lunes'
+
+    default:
+        break;
+    
+}
+
+console.log(element);
