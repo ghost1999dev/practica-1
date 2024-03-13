@@ -4,7 +4,7 @@
 # CAJERO AUTOMATICO
 * 
 * - REGISTRAR CUENTA
-*  - Descripcion: Permite al usuario introducir un numero de cuenta si el *    numero de cuenta no es valido no dejara hacer todo el proceso
+*  - Descripcion: Permite al usuario introducir un numero de cuenta si el numero de cuenta no es valido no dejara hacer todo el proceso
 *  - Entrada: Numero de cuenta
 *  - Salida: Numero de cuenta valido o numero de cuenta no valid
 *
