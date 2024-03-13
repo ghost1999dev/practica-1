@@ -23,7 +23,8 @@
 *   - Salida: Saldo disponible
 *
 * - PAGAR EL SEGURO
-*   - Descipcion: Durante una transaccion, el usuario puede optar por pagar un seguro para garantizar la seguridad de la transaccion y disminuir el pago del seguro *     de su balance
+*   - Descipcion: Durante una transaccion, el usuario puede optar por pagar un seguro para garantizar la seguridad de la transaccion y disminuir el pago del seguro 
+  de su balance
 *   - Entrada: Confirmacion de entrada de pago de seguro
 *   - Salida: Confirmacion de pago de seguro exitoso
 *
